@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: lisperm.ru
+Sitemap: https://lisperm.ru/sitemap.xml
